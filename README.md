@@ -15,18 +15,21 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🎮 Character Sheet
 
-```python
-class Sucharith:
-    name       = "Sucharith Biswas"
-    role       = "Full-Stack Developer"
-    location   = "Bengaluru, India 🇮🇳"
-    stack      = ["React", "Angular", "Django", "Node.js", "MySQL", "MongoDB"]
-    currently  = "Building. Shipping. Levelling up. 🚀"
-    mindset    = "Own it fully. Find the bug before it's reported."
-    open_to    = "Internships & Full-time Roles"
-```
+| | |
+|---|---|
+| **🧙 Name** | Sucharith Biswas |
+| **⚔️ Class** | Full-Stack Developer |
+| **📍 Region** | Bengaluru, India |
+| **⚡ Level** | Junior → grinding to Senior |
+| **🏅 EXP** | 2 Internships · Real Production Code |
+| **🔥 Primary Skills** | React · Django · Angular · Node.js |
+| **🗄️ Secondary Skills** | MySQL · MongoDB · REST APIs |
+| **🛡️ Passive Ability** | *Finds bugs before they're reported* |
+| **🚀 Ultimate** | *Ships code to real users, not sandboxes* |
+| **🎯 Current Quest** | Land a role at a top product-based company |
+| **📖 Status** | `Open to Opportunities ✅` |
 
 ---
 
