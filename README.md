@@ -92,9 +92,10 @@
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=S9-nine&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/S9-nine)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S9-nine&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/S9-nine)
+![Commits](https://img.shields.io/badge/Total%20Commits-Growing%20Daily-brightgreen?style=for-the-badge&logo=github)
+![Internships](https://img.shields.io/badge/Internships-2-blue?style=for-the-badge&logo=briefcase)
+![Projects](https://img.shields.io/badge/Projects%20Shipped-2-orange?style=for-the-badge&logo=rocket)
+![Status](https://img.shields.io/badge/Open%20To%20Work-Yes-success?style=for-the-badge&logo=checkmark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=S9-nine&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
