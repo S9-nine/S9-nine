@@ -15,7 +15,7 @@
 
 ---
 
-## 🎮 Character Sheet
+##  Character Sheet
 
 | | |
 |---|---|
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -65,30 +65,30 @@
 
 ---
 
-## 🚀 Experience
+##  Experience
 
 ### 💼 Silo Fortune Pvt Ltd — Full-Stack Developer Intern *(Feb 2026 – May 2026)*
 > `React.js` · `Django` · `REST APIs`
 
-- 🔐 Built a full-stack **Admin Portal** with **Super Admin → Admin → User** access tiers
-- 🎨 Designed clean, role-specific UI/UX so each user only sees what's relevant to them
-- 🛡️ Enforced authorization at the **API level** — not just the UI layer
-- ⚡ Owned frontend + backend end-to-end with zero handoffs
+-  Built a full-stack **Admin Portal** with **Super Admin → Admin → User** access tiers
+-  Designed clean, role-specific UI/UX so each user only sees what's relevant to them
+-  Enforced authorization at the **API level** — not just the UI layer
+-  Owned frontend + backend end-to-end with zero handoffs
 
 ---
 
 ### 💼 Utthunga Technologies Pvt Ltd — Full-Stack Developer Intern *(Feb 2025 – Apr 2025)*
 > `Angular` · `Django` · `MySQL` · `Bootstrap` · `REST APIs`
 
-- 🚢 Shipped a **production app** tracking employee training for a real organization
-- 📊 Built graphical dashboards, dynamic filters, and automated performance insights
-- 📅 Added event calendar with deadline tracking & automated reminders
-- 📁 Integrated bulk Excel import/export — launched with **zero post-release bugs**
-- 🤝 Worked in Agile sprints with peer code reviews via GitLab
+-  Shipped a **production app** tracking employee training for a real organization
+-  Built graphical dashboards, dynamic filters, and automated performance insights
+-  Added event calendar with deadline tracking & automated reminders
+-  Integrated bulk Excel import/export — launched with **zero post-release bugs**
+-  Worked in Agile sprints with peer code reviews via GitLab
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -103,7 +103,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -113,7 +113,6 @@
 
 ---
 
-## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -127,7 +126,7 @@
 
 ---
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <div align="center">
 
@@ -139,7 +138,7 @@
 
 <div align="center">
 
-### 💬 *"Own it fully. Ship it. Find the bug before it's reported."*
+###  *"Own it fully. Ship it. Find the bug before it's reported."*
 
 ⭐ **Drop a star on something you find useful!**
 
