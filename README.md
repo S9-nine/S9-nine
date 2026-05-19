@@ -92,13 +92,12 @@
 
 <div align="center">
 
-| Stats | Top Languages |
-|---|---|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=S9-nine&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S9-nine&layout=compact&theme=tokyonight&hide_border=true) |
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=S9-nine&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/S9-nine)
 
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S9-nine&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/S9-nine)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=S9-nine&theme=tokyonight&hide_border=true&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=S9-nine&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ---
