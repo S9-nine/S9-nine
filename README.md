@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sucharith+Biswas+%F0%9F%91%8B;Full-Stack+Developer;React+%C2%B7+Django+%C2%B7+Angular;I+ship+real+code+to+real+users.;I+find+bugs+before+they're+reported.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Sucharith+Biswas+%F0%9F%A4%96;Full-Stack+Developer;React+%C2%B7+Django+%C2%B7+Angular;I+ship+real+code+to+real+users.;I+find+bugs+before+they're+reported.)](https://git.io/typing-svg)
 
 <br/>
 
