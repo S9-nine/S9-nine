@@ -92,13 +92,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=S9-nine&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S9-nine&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+| Stats | Top Languages |
+|---|---|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=S9-nine&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S9-nine&layout=compact&theme=tokyonight&hide_border=true) |
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=S9-nine&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=S9-nine&theme=tokyonight&hide_border=true&card_width=800)](https://git.io/streak-stats)
 </div>
 
 ---
