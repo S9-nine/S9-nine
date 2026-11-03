@@ -1,145 +1,77 @@
-<div align="center">
+<a href="https://codequest-game.thenameissuchi.workers.dev">
+  <img src="assets/banner.svg" alt="Sucharith Biswas. I make games that teach code." width="100%">
+</a>
 
-<!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Sucharith+Biswas+%F0%9F%A4%96;Full_Stack+Developer;React+%C2%B7+Django+%C2%B7+Angular;I+ship+real+code+to+real+users.;I+find+bugs+before+they're+reported.)](https://git.io/typing-svg)
+Hi, I'm Suchi, a developer.
 
-<br/>
+A while back someone asked me to explain a piece of code I had written. I couldn't. I'd followed the tutorials and it ran, but I didn't really understand what I'd made.
 
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sucharithbiswas/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S9-nine)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Thenameissuchi@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=S9-nine&style=for-the-badge&color=blueviolet)](https://github.com/S9-nine)
+So now I'm building **[Code Quest](https://codequest-game.thenameissuchi.workers.dev)**, a pixel-art game where you learn Python by doing it, not by watching it. Each level takes about 10 minutes and has five steps:
 
-</div>
-
----
-
-##  Character Sheet
-
-| | |
+| Step | What you do |
 |---|---|
-| **🧙 Name** | Sucharith Biswas |
-| **⚔️ Class** | Full-Stack Developer |
-| **📍 Region** | Bengaluru, India |
-| **⚡ Level** | Junior → grinding to Senior |
-| **🏅 EXP** | 2 Internships · Real Production Code |
-| **🔥 Primary Skills** | React · Django · Angular · Node.js |
-| **🗄️ Secondary Skills** | MySQL · MongoDB · REST APIs |
-| **🛡️ Passive Ability** | *Finds bugs before they're reported* |
-| **🚀 Ultimate** | *Ships code to real users, not sandboxes* |
-| **🎯 Current Quest** | Land a role at a top product-based company |
-| **📖 Status** | `Open to Opportunities ✅` |
+| **Learn** | Read a short lesson with examples you can run |
+| **Think** | Guess what the code prints before you run it |
+| **Code** | Write it yourself. It's checked against real test cases |
+| **Debug** | Fix someone else's broken code |
+| **Explain** | Say what it does in your own words |
+
+The last step is the one I needed most.
+
+<p align="center">
+  <img src="assets/cq-home.png" alt="Code Quest home screen: pick a course, see your rank and daily goal" width="49%">
+  <img src="assets/cq-code.png" alt="A Code Quest level: write Python in the browser, run it, then check it" width="49%">
+</p>
+
+<p align="center">
+  <a href="https://codequest-game.thenameissuchi.workers.dev"><b>Play the first level</b></a>. It's free, and you can try it without signing up.
+</p>
+
+<details>
+<summary><b>How it's built</b></summary>
+<br>
+
+- Plain HTML, CSS and JavaScript, no framework. A small Node script bundles it all into one page.
+- Your Python runs right in the browser with Skulpt, so there's no server running anyone's code.
+- Supabase (PostgreSQL) stores accounts, saves, guilds and guild chat. Row-level security means each player can only read and change their own data.
+- You can sign in with Google, or play as a guest first and link Google later without losing progress.
+- Hosted on a Cloudflare Worker, which redeploys on every push.
+- 1,388 automatic checks run before every release, so no level ships with a broken answer.
+- I build with AI tools as a pair programmer, and I'm working through every part until I can explain it myself. That's the whole point of the game, after all.
+
+The source is private for now. [Pyworld](https://github.com/S9-nine/Pyworld) is the first public version.
+
+</details>
+
+<br>
+
+<img src="assets/road.svg" alt="2021: started B.Tech CSE. Feb 2025: Utthunga internship. 2025: graduated with distinction. Feb 2026: Silo Fortune internship. Oct 2026: Code Quest goes live. Next: your team?" width="100%">
+
+#### Silo Fortune · Feb to May 2026
+
+Built an admin portal in React and Django with three access levels: Super Admin, Admin and User. Permissions are checked on the server too, not just hidden in the UI.
+
+#### Utthunga Technologies · Feb to Apr 2025
+
+Built a tracker in Angular and Django for employee training, attendance and assessment scores, with Excel import and export for bulk records.
+
+### Other things I've made
+
+- **[Gau Sampurna](https://github.com/S9-nine/Gausampurna)**: a mobile-first shop for a cattle nutrition brand (React, Vite, Tailwind)
+- **[LinguaSwift](https://github.com/S9-nine/Vibe-Translate-)**: type in English and watch it turn into Kannada or Hindi as you type, with read-aloud
+- **[Pyworld](https://github.com/S9-nine/Pyworld)**: where Code Quest started
+
+### What I work with
+
+Python · JavaScript · SQL · HTML and CSS · Django · React · Angular · PostgreSQL · Supabase · Cloudflare · Git
+
+<img src="https://raw.githubusercontent.com/S9-nine/S9-nine/output/eater.svg" alt="A pixel robot from Code Quest walks across my contribution graph and eats every square, filling an XP bar" width="100%">
+
+### Right now
+
+- Play data showed most new players stop at level 1-2, so I'm rewriting it to be gentler.
+- Getting better at explaining my own code. Yes, I see the irony.
 
 ---
 
-##  Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Database & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-##  Experience
-
-### 💼 Silo Fortune Pvt Ltd — Full-Stack Developer Intern *(Feb 2026 – May 2026)*
-> `React.js` · `Django` · `REST APIs`
-
--  Built a full-stack **Admin Portal** with **Super Admin → Admin → User** access tiers
--  Designed clean, role-specific UI/UX so each user only sees what's relevant to them
--  Enforced authorization at the **API level** — not just the UI layer
--  Owned frontend + backend end-to-end with zero handoffs
-
----
-
-### 💼 Utthunga Technologies Pvt Ltd — Full-Stack Developer Intern *(Feb 2025 – Apr 2025)*
-> `Angular` · `Django` · `MySQL` · `Bootstrap` · `REST APIs`
-
--  Shipped a **production app** tracking employee training for a real organization
--  Built graphical dashboards, dynamic filters, and automated performance insights
--  Added event calendar with deadline tracking & automated reminders
--  Integrated bulk Excel import/export — launched with **zero post-release bugs**
--  Worked in Agile sprints with peer code reviews via GitLab
-
----
-
-##  GitHub Stats
-
-<div align="center">
-
-![Commits](https://img.shields.io/badge/Total%20Commits-Growing%20Daily-brightgreen?style=for-the-badge&logo=github)
-![Internships](https://img.shields.io/badge/Internships-2-blue?style=for-the-badge&logo=briefcase)
-![Projects](https://img.shields.io/badge/Projects%20Shipped-2-orange?style=for-the-badge&logo=rocket)
-![Status](https://img.shields.io/badge/Open%20To%20Work-Yes-success?style=for-the-badge&logo=checkmark)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=S9-nine&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-##  GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=S9-nine&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S9-nine/S9-nine/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S9-nine/S9-nine/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/S9-nine/S9-nine/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-##  Activity Graph
-
-<div align="center">
-
-[![Sucharith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=S9-nine&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-###  *"Own it fully. Ship it. Find the bug before it's reported."*
-
-⭐ **Drop a star on something you find useful!**
-
-</div>
+I'm open to junior developer roles. Say hi at [thenameissuchi@gmail.com](mailto:thenameissuchi@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/sucharithbiswas/).
