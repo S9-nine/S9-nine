@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Sucharith Biswas. I make games that teach code." width="100%">
 </a>
 
-Hi, I'm Suchi, a developer.
+Hi, I'm Sucharith, a developer.
 
 A while back someone asked me to explain a piece of code I had written. I couldn't. I'd followed the tutorials and it ran, but I didn't really understand what I'd made.
 
